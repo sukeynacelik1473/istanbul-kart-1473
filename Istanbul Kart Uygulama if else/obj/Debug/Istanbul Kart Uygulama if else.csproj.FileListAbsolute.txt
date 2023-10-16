@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\bin\Debug\Istanbul Kart Uygulama if else.dll
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\bin\Debug\Istanbul Kart Uygulama if else.pdb
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\obj\Debug\Istanbul Kart Uygulama if else.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\obj\Debug\Istanbul Kart Uygulama if else.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\obj\Debug\Istanbul Kart Uygulama if else.dll
+C:\Users\User\Downloads\Istanbul Kart Uygulama if else\obj\Debug\Istanbul Kart Uygulama if else.pdb
